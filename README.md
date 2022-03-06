@@ -1,2 +1,2 @@
 # ebcdn
-ebcdn
+ebcdn xg
