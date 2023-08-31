@@ -67,7 +67,7 @@
             'adapter/source.js',
             'adapter/combobox.js'
         ],
-        baseURL = '../_src/';
+        baseURL = 'https://cdn.jsdelivr.net/gh/yibo7/ebcdn@0.6/umeditor/_src/';
     for (var i=0,pi;pi = paths[i++];) {
         document.write('<script type="text/javascript" src="'+ baseURL + pi +'"></script>');
     }
