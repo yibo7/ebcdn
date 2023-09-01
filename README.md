@@ -1,2 +1,2 @@
 # ebcdn
-ebcdn xg
+ebcdn 使用方式请看教程项目
