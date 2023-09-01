@@ -136,7 +136,7 @@ etpl.config({
      */
     window.UMEDITOR_CONFIG = {
 
-        //为编辑器实例添加一个路径，这个不能被注释
+        //为编辑器实例添加一个路径， 这个不能被注释
         UMEDITOR_HOME_URL : URL
 
         //图片上传配置区
